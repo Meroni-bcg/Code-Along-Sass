@@ -1,0 +1,15 @@
+If you finish activity before the rest of the class, consider these challenging short answer questions:
+
+There is another CSS Framework called Tailwind. It works slightly differently than Sass. What are the differences and similarities between Sass and Tailwind?
+- It extends the capabilities of CSS by adding features like variables, mixins, nested rules, and functions. Sass allows you to write cleaner and more maintainable CSS code by making it more modular and reusable.
+
+- provides a set of pre-defined utility classes that you can apply directly to your HTML elements to style them. Tailwind focuses on providing a comprehensive set of utility classes to rapidly build user interfaces without writing custom CSS.
+
+
+If you had to use one of these two options in a project, which would you choose given what you know right now? What type of project would it be?
+
+- Sass emphasizes writing custom CSS rules and provides tools for code organization and reusability.
+
+- This approach promotes rapid development and consistency in styling.
+
+What is LESS? Can Sass and LESS be used together? If so, how? If not, why not?
